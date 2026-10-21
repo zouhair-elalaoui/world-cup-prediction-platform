@@ -1,0 +1,38 @@
+# --- Environnement & secrets ---
+.env
+*.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+.eggs/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Windows ---
+Thumbs.db
+desktop.ini
+
+# --- Modèles entraînés (volumineux) ---
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# --- Logs ---
+*.log
+
+# --- OS ---
+.DS_Store
