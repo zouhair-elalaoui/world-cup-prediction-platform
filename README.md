@@ -1,6 +1,6 @@
 # FIFA World Cup 2026 Prediction and Simulation
 
-Before the start of the FIFA World Cup 2026, I developed this project alongside [PROBI Nouhaila](https://github.com/USERNAME), to explore how machine learning and historical football data could be used to predict match outcomes and simulate possible tournament scenarios.
+Before the start of the FIFA World Cup 2026, I developed this project alongside [PROBI Nouhaila](https://github.com/nouhailaprobi), to explore how machine learning and historical football data could be used to predict match outcomes and simulate possible tournament scenarios.
 
 The project combines football data collection, feature engineering, machine learning, and probabilistic simulation to analyze team performance and explore potential outcomes ahead of the tournament.
 
@@ -20,9 +20,9 @@ world-cup-prediction-platform/
 ├── data/
 │   └── raw/
 │       └── historical_1930_2018/  # 26 Kaggle CSV files
-├── models/                        # Trained ML models (.pkl)
+├── models/                        # Trained ML models (.pkl) (after execution)
 ├── reports/                       # Generated HTML dashboard
-├── exports/                       # Exported CSV files
+├── exports/                       # Exported CSV files (after execution)
 ├── src/
 │   ├── data/
 │   │   ├── import_to_mongodb.py   # Import CSV data into MongoDB
@@ -43,7 +43,7 @@ world-cup-prediction-platform/
 │       └── db.py                  # MongoDB connection
 ├── requirements.txt               # Python dependencies
 ├── setup_and_run.sh               # Main end-to-end execution script
-└── main.py                         # Connection test
+└── main.py                        # Connection test
 ```
 
 
