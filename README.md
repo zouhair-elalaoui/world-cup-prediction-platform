@@ -117,6 +117,13 @@ The simulation explores potential tournament outcomes using model-generated prob
 
 Overall, the models provide a baseline for football match prediction, while the simulation pipeline offers a way to explore potential scenarios for the 2026 tournament. The results also highlight opportunities for improvement, especially in predicting draws and balancing performance across outcome classes.
 
+## Dashboard Preview
+
+The platform provides an interactive dashboard to explore football match predictions and FIFA World Cup 2026 simulation results.
+
+![Dashboard Overview](groups_stage_sim.png)
+
+
 ## Technologies Used
 
 - **Python** — data processing and machine learning
