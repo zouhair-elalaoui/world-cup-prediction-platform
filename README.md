@@ -122,6 +122,9 @@ Overall, the models provide a baseline for football match prediction, while the 
 The platform provides an interactive dashboard to explore football match predictions and FIFA World Cup 2026 simulation results.
 
 ![Dashboard Overview](groups_stage_sim.png)
+![Dashboard Overview](groups_stage_pred.png)
+![Dashboard Overview](knockout_sim.png)
+![Dashboard Overview](winner_pred.png)
 
 
 ## Technologies Used
